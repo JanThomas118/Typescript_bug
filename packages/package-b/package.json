@@ -1,0 +1,12 @@
+{
+  "name": "@package/b",
+  "dependencies": {
+    "history": "^4.9.0"
+  },
+  "devDependencies": {
+    "@types/history": "4.7.3"
+  },
+  "scripts": {
+    "build" : "tsc"
+  }
+}
