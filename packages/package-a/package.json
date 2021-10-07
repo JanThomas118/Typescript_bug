@@ -2,8 +2,5 @@
   "name": "@package/a",
   "dependencies": {
     "history": "^5.0.0"
-  },
-  "scripts": {
-    "build" : "tsc"
   }
 }
